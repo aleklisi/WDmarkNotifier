@@ -1,0 +1,12 @@
+Configuration:
+1) Install chromedriver.exe from:
+    https://sites.google.com/a/chromium.org/chromedriver/downloads
+2) Install python (version 3.6.5) from:
+    https://www.python.org/downloads/
+3) Install selenium from:
+    http://selenium-python.readthedocs.io/installation.html#
+4) Reconfigure main.py typing in real credentials
+5) Run program, (typing to cmd):
+    python.exe main.py
+
+
